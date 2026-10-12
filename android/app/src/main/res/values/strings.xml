@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">SM Daily Routine</string>
+    <string name="title_activity_main">SM Daily Routine</string>
+    <string name="package_name">com.hyundai.smroutine</string>
+    <string name="custom_url_scheme">com.hyundai.smroutine</string>
+</resources>
